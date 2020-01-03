@@ -7,11 +7,11 @@ Summary of our findings on SIMR papers:
   * Papers published by Stowers scientists are distributed to high-reputation, high-impact publishers. Some examples include Development, Cell, Nature, eLife, PLoS Genetics, Nature Communications, Nature Genetics, etc.
   * There were two non-English papers - they were written in French. 
   * Number of authors in a publication were usually greater and equal to 2 people. This suggests SIMR scientists are a collaborative bunch!
-  * The department with the top contribution of papers is: Proteomics, Trainor Lab, and Workman Lab, at almost equal numbers. Impressive!
+  * The department with the top contribution of papers is: Proteomics, Trainor Lab, and Workman Lab, with over 80 papers each. Impressive!
   
 
 # Notes
 
 The data used in this project only includes a free trial of the scopus API.
 
-Acknowledgements: Sam, Matthew, David, Sophia Robb, Stowers Institute for Medical Research
+Acknowledgements: Sam, Matthew, and David from IT, Sophia from Genomics, and the Stowers Institute for Medical Research
