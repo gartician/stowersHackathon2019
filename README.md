@@ -1,4 +1,4 @@
-# stowersHackathon2019
+# Stowers Hackathon 2019 - Publication Metrics
 Publication metrics of the SIMR between 2010 and 2019.
 
 Summary of our findings on SIMR papers:
